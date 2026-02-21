@@ -1,10 +1,9 @@
-# House Prices: Advanced Regression Techniques
+# House Prices: Advanced Regression Techniques TOP 5% RESULT ON KAGGLE
 
 Predicting residential property sale prices in Ames, Iowa using a 7-model stacking ensemble with 30+ engineered features.
 
 **Competition:** [Kaggle -- House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 **Metric:** RMSE on log-transformed SalePrice (RMSLE)
-**Target Score:** Top-10 on the public leaderboard (RMSLE <= 0.115)
 
 ---
 
